@@ -4,7 +4,7 @@ This is a simple extension of the standard [Opus-MT](https://github.com/Helsinki
 
 ## Building
 
-First build the base Docker image from a completely clean clone of the `small-container` branch of https://github.com/ianroberts/Opus-MT (this will change to the master branch of https://github.com/Helsinki-NLP/Opus-MT if/when pull request 38 is accepted)
+First build the base Docker image from a completely clean clone of the master branch of https://github.com/Helsinki-NLP/Opus-MT:
 
 ```
 cd ..../Opus-MT
